@@ -1,0 +1,85 @@
+* {
+    padding: 0px;
+    margin: 0px;
+
+    background-color: #ffffff;
+
+}
+body{
+    overflow-x: scroll;
+}
+.navbar {
+
+    background-color: blue;
+    text-align: center;
+    color: black;
+    padding: 10px;
+}
+
+.navbar .links {
+    background-color: blue;
+}
+
+.navbar .links a {
+    background-color: blue;
+    margin: 20px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.navbar .links a:hover {
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+.navbar h1 {
+    text-align: center;
+    padding: 20px;
+    background-color: blue;
+    font-size: 40px;
+    color: tomato;
+}
+
+.section,
+.about {
+    padding: 5px;
+    margin: 5px 10px;
+
+
+}
+
+.section h1,
+.about h1 {
+    text-align: center;
+    color: blueviolet;
+    font-size: 35px;
+}
+
+.section p,
+.about p {
+    font-size: 27px;
+}
+
+.footer {
+    background-color: blue;
+    text-align: center;
+    color: black;
+    padding: 10px;
+}
+
+.footer p {
+    background-color: blue;
+    text-align: center;
+    color: black;
+    padding: 10px;
+
+}
+
+.footer h3 {
+    background-color: blue;
+    text-align: center;
+    color: black;
+    padding: 10px;
+}
